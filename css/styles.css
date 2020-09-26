@@ -1,0 +1,142 @@
+/***********************tag selectors***********************/
+body {
+  background-color: #E4F9F5;
+margin: 0;
+text-align: center;
+font-family: 'Aclonica', sans-serif;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color:#66BFBF;
+
+
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.18rem;
+  color:#11999E;
+
+}
+
+
+h1 {
+  font-size: 6.87rem;
+  color:#66BFBF;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+p {
+  font-size: 20px;
+}
+
+hr {
+background-color: none;
+  border-style: dotted none none;
+  width: 20%;
+  border-width: 20px;
+  color: #99f3bd;
+}
+a {
+  color:#11999E;
+}
+/***********************class selectors**************************/
+.top-paragraph {
+  font-size:1.56rem;
+  color:#66BFBF;
+  font-weight:normal;
+  line-height: 4.0;
+
+}
+.web {
+text-decoration: underline;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.top-container{
+
+  padding-top: 100px;
+
+
+}
+.middle-container {
+  width: 50%;
+}
+.bottom-container {
+  text-align: left;
+  line-height: 2;
+
+}
+.main-heading {
+ margin-top: 0px;
+ font-family: 'Indie Flower', cursive;
+}
+.contact {
+  width: 50%;
+  margin: 100px auto 0 auto;
+}
+.contact2 {
+  width: 50%;
+  margin: auto;
+}
+.footer {
+  width: 50%;
+  margin: auto;
+}
+
+.profile-pic {
+  width: 10%;
+  height: auto;
+  position: fixed;
+  left:0px;
+  top: 0px;
+
+}
+
+.bottom-cloud {
+  position:absolute;
+  left:750px;
+  top:190px;
+}
+.top-cloud {
+  position: absolute;
+  top: 55px;
+  right: 750px;
+}
+
+.computer {
+
+  width: 20%;
+  height: auto;
+  margin-right: 20px;
+  float: left;
+
+}
+.design-img {
+  width: 20%;
+  height: auto;
+float: left;
+margin-right: 20px;
+
+}
+.wink {
+  width: 15%;
+  float: right;
+  position: relative;
+  right: 50px;
+}
+
+.my-skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.design {
+margin: 100px auto 100px auto;
+  width: 50%;
+
+}
